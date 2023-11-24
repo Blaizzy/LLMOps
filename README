@@ -1,4 +1,4 @@
-# LLMOps Project
+# LLMOps - Language Model Operations
 
 ## Overview
 
@@ -37,6 +37,8 @@ pip install modal huggingface_hub torch fastapi pydantic
 2. Run the script to start the FastAPI server.
 3. Use the `/generate` endpoint to interact with the chat application.
 
+## Author
+[Prince Canuma](https://www.linkedin.com/in/prince-canuma/) - An MLOPs Engineer and founder at [Kulissiwa](https://www.kulissiwa.com/). Previously, he worked as a ML Engineer at neptune.ai. He is passionate about MLOps, Deep Learning, and Software Engineering.
 
 ## Contributions
 Contributions to this project are welcome. Please follow the standard procedures for submitting issues and pull requests.
