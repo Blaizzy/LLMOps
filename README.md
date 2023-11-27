@@ -14,7 +14,8 @@ This repository contains two Python scripts designed for deploying language mode
 - Python 3.x
 - Pip
 - Modal SDK
-- Hugging Face's Transformers library
+- Hugging Face's Hub and Transformers library
+- OpenAI SDK
 - FastAPI
 - Pydantic
 
@@ -23,7 +24,7 @@ This repository contains two Python scripts designed for deploying language mode
 To use these scripts, you need to install the necessary dependencies. Run the following command to install them:
 
 ```python
-pip install modal huggingface_hub torch fastapi pydantic
+pip install modal huggingface_hub transformers torch openai fastapi pydantic
 ```
 
 ## Usage
