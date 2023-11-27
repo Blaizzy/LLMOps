@@ -6,7 +6,7 @@ This repository contains two Python scripts designed for deploying language mode
 
 ### Scripts
 
-1. **demo_langchain_hf_vllm.py**: Sets up and runs [Mistral-7B-Instruct-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1) and LLM from MistralAI using [LangChain](https://python.langchain.com/docs/get_started/introduction), [VLLM](https://github.com/vllm-project/vllm) and [Huggingface](https://huggingface.co/). It includes downloading the model, setting up the environment, and running inference.
+1. **demo_langchain_hf_vllm.py**: Sets up and runs [Mistral-7B-Instruct-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1) an LLM from MistralAI using [LangChain](https://python.langchain.com/docs/get_started/introduction), [VLLM](https://github.com/vllm-project/vllm) and [Huggingface](https://huggingface.co/). It includes downloading the model, setting up the environment, and running inference.
 2. **chat_token_streaming.py**: Implements a chat application using [OpenAI API](https://platform.openai.com/docs/guides/text-generation), [FastAPI](https://fastapi.tiangolo.com/) and the [LangChain](https://python.langchain.com/docs/get_started/introduction). It includes streaming response capabilities and CORS middleware setup for a web application.
 
 ## Requirements
